@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+THIS IS THE BRIEF INTRODUCTION OF THE "DISEASE PREDICTION" PROJECT WITH MACHINE LEARNING CONCEPT.
+------------------------------------------------------------------------------------------------
 Disease Prediction Project
 1. Project Goal:
 To develop a machine learning model capable of accurately predicting diseases based on patient symptoms.
